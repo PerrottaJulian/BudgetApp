@@ -19,4 +19,4 @@ print(clothing)
 print(auto)
 
 
-print(create_spend_chart([food, clothing]))
+print(create_spend_chart([food, clothing, auto]))
